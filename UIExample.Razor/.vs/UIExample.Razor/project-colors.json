@@ -10,7 +10,12 @@
       "ProjectGuid": "df57c701-86c6-420c-8a07-beb5f4d461e4",
       "DisplayName": "UIExample.Razor",
       "ColorIndex": 1
+    },
+    "3ec16248-556f-4f83-9f54-f86d59287fc6": {
+      "ProjectGuid": "3ec16248-556f-4f83-9f54-f86d59287fc6",
+      "DisplayName": "UIExample.Razor",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
