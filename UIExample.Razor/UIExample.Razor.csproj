@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="CodeFactory\**" />
+    <Content Remove="CodeFactory\**" />
+    <EmbeddedResource Remove="CodeFactory\**" />
+    <None Remove="CodeFactory\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="AspNetDotNet5Commands.VisualStudio.cfx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommonDeliveryFramework" Version="1.21020.2" />
+    <PackageReference Include="CommonDeliveryFramework.Net.Aspnet" Version="1.21020.1" />
+  </ItemGroup>
+
+</Project>

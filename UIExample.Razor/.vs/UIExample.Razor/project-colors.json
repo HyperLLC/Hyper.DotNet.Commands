@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0313cf36-c979-4294-b85a-d26fe31fdd3c": {
+      "ProjectGuid": "0313cf36-c979-4294-b85a-d26fe31fdd3c",
+      "DisplayName": "UIExample.Razor",
+      "ColorIndex": 0
+    },
+    "df57c701-86c6-420c-8a07-beb5f4d461e4": {
+      "ProjectGuid": "df57c701-86c6-420c-8a07-beb5f4d461e4",
+      "DisplayName": "UIExample.Razor",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
